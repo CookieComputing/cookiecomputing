@@ -23,7 +23,7 @@ Check out some of my pinned repositories for the stuff I'm currently working on!
 ### 2019
 - Sep 2019 - Dec 2019: Teaching Assistant for [Khoury College](https://www.khoury.northeastern.edu/)'s CS 3000 course (Algorithms)
 - Sep 2019 - Dec 2019: Teaching Assistant for [Khoury College](https://www.khoury.northeastern.edu/)'s CS 1210 course (Professional Development for Co-op)
-- Sep 2019 - Dec 2019: Career Fellow  for [Northeastern University](https://www.northeastern.edu/)'s [Career Design Department](https://careers.northeastern.edu/)'s CS 1210 course (Professional Development for Co-op)
+- Sep 2019 - Dec 2019: Career Fellow  for [Northeastern University](https://www.northeastern.edu/)'s [Career Design Department](https://careers.northeastern.edu/)
 - Jun 2019 - Sep 2019: Software Engineering Intern at [Microsoft](https://www.microsoft.com/)
 - Jan 2019 - Jun 2019: Software Engineering Coop at [Intuit](https://www.intuit.com/)
 ### 2018
