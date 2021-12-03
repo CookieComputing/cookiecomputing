@@ -1,6 +1,6 @@
 # Kevin Hui
 
-Hi there! I'm a 5th year student (soon to be alumni!) at Northeastern University majoring in Computer Science and minoring in Mathematics. I specialize in back-end and infrastructure work (scaling is a fun problem!), but I also enjoy a whole array of other fields.
+Hi there! I'm a 5th year student (soon to be alumni!) at Northeastern University majoring in Computer Science and minoring in Mathematics. I specialize in back-end and infrastructure work (scaling is a fun problem!), but I also enjoy a whole array of other fields (such as learning as computer security and computer architecture!).
 
 Check out some of my pinned repositories for the stuff I'm currently working on!
 
